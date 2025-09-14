@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Block access to certain directories if needed
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow access to sitemap
+Allow: /sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://kimhong.dev/sitemap.xml

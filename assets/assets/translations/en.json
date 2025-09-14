@@ -1,0 +1,190 @@
+{
+  "app": {
+    "name": "Kimhong Portfolio",
+    "version": "1.0.0"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "greeting": "Hello, I'm Kimhong",
+      "role": "Flutter Developer & Mobile App Specialist",
+      "tagline": "Building beautiful, performant mobile and web applications with Flutter",
+      "cta1": "View My Work",
+      "cta2": "Get In Touch"
+    },
+    "featured": {
+      "title": "Featured Projects",
+      "subtitle": "Some of my recent work",
+      "viewAll": "View All Projects"
+    },
+    "skills": {
+      "title": "Skills & Technologies"
+    },
+    "cta": {
+      "title": "Let's Build Something Amazing Together",
+      "subtitle": "I'm always interested in new opportunities and exciting projects.",
+      "button": "Start a Conversation"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "bio": {
+      "greeting": "Hello, I'm Kimhong",
+      "description1": "A passionate Flutter developer with 3+ years of experience building beautiful, performant mobile and web applications. I specialize in creating user-centric solutions that combine clean code, modern design, and cutting-edge technology.",
+      "description2": "When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community."
+    },
+    "stats": {
+      "experience": "3+ Years Experience",
+      "projects": "50+ Projects Completed",
+      "expertise": "Flutter Expert",
+      "work": "Remote Work"
+    },
+    "experience": {
+      "title": "Experience",
+      "roles": {
+        "senior": {
+          "title": "Senior Flutter Developer",
+          "company": "Tech Solutions Inc.",
+          "period": "2022 - Present",
+          "description": "Led development of multiple Flutter applications, mentored junior developers, and implemented CI/CD pipelines."
+        },
+        "mobile": {
+          "title": "Mobile App Developer",
+          "company": "StartupXYZ",
+          "period": "2021 - 2022",
+          "description": "Developed cross-platform mobile applications using Flutter, integrated with REST APIs and implemented state management."
+        },
+        "junior": {
+          "title": "Junior Developer",
+          "company": "Digital Agency",
+          "period": "2020 - 2021",
+          "description": "Started my journey in mobile development, learned Flutter fundamentals and contributed to various client projects."
+        }
+      }
+    },
+    "skills": {
+      "title": "Skills & Expertise"
+    },
+    "education": {
+      "title": "Education",
+      "degrees": {
+        "cs": {
+          "title": "Bachelor of Computer Science",
+          "school": "University of Technology",
+          "year": "2016 - 2020",
+          "description": "Focused on software engineering, mobile development, and user experience design."
+        },
+        "certification": {
+          "title": "Flutter Development Certification",
+          "school": "Google & Udacity",
+          "year": "2020",
+          "description": "Advanced Flutter development course covering state management, animations, and app architecture."
+        }
+      }
+    }
+  },
+  "projects": {
+    "title": "My Projects",
+    "search": "Search projects...",
+    "filter": "Filter Projects",
+    "empty": {
+      "title": "No projects found",
+      "subtitle": "Try adjusting your search or filters"
+    },
+    "loadMore": "Load More Projects",
+    "view": {
+      "grid": "Grid View",
+      "list": "List View"
+    },
+    "categories": {
+      "flutter": "Flutter",
+      "web": "Web",
+      "mobile": "Mobile",
+      "firebase": "Firebase",
+      "ui": "UI/UX",
+      "api": "API",
+      "other": "Other"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "hero": {
+      "title": "Let's Work Together",
+      "subtitle": "I'm always interested in new opportunities and exciting projects. Whether you have a question or just want to say hi, feel free to reach out!"
+    },
+    "form": {
+      "title": "Send me a message",
+      "name": "Name",
+      "nameHint": "Your full name",
+      "email": "Email",
+      "emailHint": "your.email@example.com",
+      "subject": "Subject",
+      "subjectHint": "What's this about?",
+      "message": "Message",
+      "messageHint": "Tell me about your project...",
+      "submit": "Send Message",
+      "sending": "Sending..."
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "location": "Location",
+      "response": "Response Time"
+    },
+    "social": {
+      "title": "Follow Me"
+    },
+    "additional": {
+      "title": "Other Ways to Connect",
+      "schedule": "Schedule a Call",
+      "scheduleDesc": "Book a time to discuss your project",
+      "resume": "View Resume",
+      "resumeDesc": "Download my latest resume",
+      "project": "Start a Project",
+      "projectDesc": "Get a project quote"
+    },
+    "validation": {
+      "nameRequired": "Please enter your name",
+      "nameMin": "Name must be at least 2 characters",
+      "emailRequired": "Please enter your email",
+      "emailInvalid": "Please enter a valid email address",
+      "subjectRequired": "Please enter a subject",
+      "subjectMin": "Subject must be at least 5 characters",
+      "messageRequired": "Please enter your message",
+      "messageMin": "Message must be at least 10 characters",
+      "messageMax": "Message must be less than 1000 characters"
+    },
+    "success": "Message sent successfully! I'll get back to you soon.",
+    "error": "Failed to send message. Please try again."
+  },
+  "footer": {
+    "copyright": "© {year} {name}. All rights reserved.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "ok": "OK",
+    "yes": "Yes",
+    "no": "No",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "more": "More"
+  }
+}
